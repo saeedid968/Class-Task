@@ -1,0 +1,53 @@
+table {
+    width: 100%;
+    text-align: center;
+
+}
+.table2{
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+.tr1 {
+    font-size: 30px;
+    background-color: rgb(6, 6, 77);
+    color: white;
+
+
+}
+
+.tr2 {
+    font-size: 30px;
+    height: 20px;
+    background-color: rgb(14, 14, 121);
+    color: white;
+
+}
+
+
+.fastfood {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(151, 167, 221);
+}
+
+.tr3{
+    margin: 80%;
+    background-color: rgb(6, 6, 77);
+    color: white;
+    
+}
+.tr4{
+    margin: 80%;
+    padding: 20px;
+    background-color: rgb(6, 6, 77);
+    color: white;
+}
+
+
+.burgers {
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(151, 167, 221);
+}
